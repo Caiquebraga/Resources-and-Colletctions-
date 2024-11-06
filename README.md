@@ -32,6 +32,8 @@ $.ajax({
         console.log("Erro ao obter dados:", error);
     }
 });
+
+
 Como Contribuir
 
 Obrigado por considerar contribuir para este projeto! Por favor, siga as diretrizes de contribuição do Laravel, disponíveis na documentação oficial.
